@@ -1,11 +1,5 @@
 body, html {
     height: 100%;
     margin: 0;
-}
-
-.bgimg {
-    
     background-color: rgb(117, 54, 54);
-    font-family: cursive, 'Courier New', Courier, monospace;
-    font-size: 25px;
 }
